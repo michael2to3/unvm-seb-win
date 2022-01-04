@@ -1,3 +1,6 @@
+# Почему только vm?
+Потому что лень отслеживать логи и другие конфиги для доп функций, проще запустить через виртуалку и знать что тебя не спалят
+
 # Safe Exam Browser, Version 3.x
 
 Refactored version of Safe Exam Browser for Windows with Chromium as integrated browser engine.
